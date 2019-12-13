@@ -1,5 +1,9 @@
-Almost half of the players are between ages 20-24 years old and they spend about about $3.00 per individual.
+1) Almost half of the players are between ages 20-24 years old and they spend about about $3.00 per individual.
 
 The data shows that the majority of the plays are male - over 80%. Males also spend the least per individual in the game, interestingly enough, about $3.00.
 
-Players who made the most purchases were in their 20s. the most bought items were over $3.00 The most purchases made, were 5 items so it seems the creator of the game isn't reaching their full potential to monetize the game. Perhaps they can create more items around the $3.00 range to appeal to the other age groups.
+Because the majority of the players are male, of course the total spend for the male gamers is more than the females + non-disclosed.
+
+2) Players who made the most purchases were in their teens and 20s but they spent less than other age groups. This could mean that while players in their teens and 20s enjoy playing Heroes more, they have less disposable income to spend on the game.
+
+3)The most bought item was a purchase with two items: Oathbreaker + Last Hope of the Breaking Storm with a significant 12 purchases. This is important because the gamers are only willing to about $4.00 on average. It seems the creator of the game isn't reaching their full potential to monetize the game. Perhaps they can create more packaged items around the $3.00 range, which seems to be the sweet spot) to incentivize more players to make purchases.
